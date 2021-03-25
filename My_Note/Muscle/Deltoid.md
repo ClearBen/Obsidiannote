@@ -1,4 +1,0 @@
-# Origin
-# Insertion
-# Neuron
-# Motion
