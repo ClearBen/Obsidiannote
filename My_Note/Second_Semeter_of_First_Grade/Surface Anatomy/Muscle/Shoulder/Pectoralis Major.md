@@ -8,7 +8,7 @@
 
 ## Motion
 1. **Shoulder Flexion** : 鎖骨段 (下降段)
-2. **Shoulder Extension** : 肋骨段(水平段)
+2. **Shoulder Extension** : 肋骨段(上升段)
 	* 從肱骨屈曲/頭部上方開始的肩伸直
 3. **Shoulder Adduction** : 從肩部高度之下方
 4. **Shoulder Abduction** : 從肩部高度之上方
