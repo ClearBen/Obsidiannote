@@ -25,7 +25,7 @@
     * 當體重或外來力量傳遞到肩部時，胸小肌可以協助固定肩胛骨，讓肩部架構能夠有效傳遞力量  
 
 * **伏立挺身**
-    * 和 [[Serratus Anterior]] 共同完成， 前鉅肌做 Scapula Protraction，而胸小肌負責固定肩胛骨
+    * 和 [[Serratus Anterior]] 共同完成， 協同作出 Scapula Protraction，另外胸小肌也會固定肩胛骨來提供穩定性
     * [[SubClavius]] 會讓鎖骨做 Clavicle Depression 和 Protraction 提供動態穩定  
 
 * **次要的呼吸肌**
