@@ -51,6 +51,6 @@ Shoulder Girdle Elevation : Scapula Elevation (聳肩)
 ## Testing
 ### [[Scapula Protraction & Upward Rotation]]
 ### [[Scapula Elevation]]
-### [[Scapula Adduction]]
-### [[Scapula Depression & Adduction]]
+### [[Scapula Retraction]]
+### [[Scapula Depression & Retraction]]
 ### [[Scapula Adduction & Downward Rotation]]

@@ -11,6 +11,8 @@
 
 ## Motion
 1. **Scapula Protraction**
+	* [[Pectoralis Minor]] 協助完成，為了肩胛骨和肱骨的適當排列
+	* [[Rhomboid]] 控制其速率與活動範圍
 2. **Scapula Depression**
 3. **Scapula Upward Rotation** (盂窩向上)
 	* 力偶作用：和 Upper & Down [[Trapezius]] 一起作用
