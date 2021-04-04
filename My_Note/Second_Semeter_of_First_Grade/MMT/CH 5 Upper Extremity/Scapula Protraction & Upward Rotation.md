@@ -1,3 +1,5 @@
+# Scapula Protraction & Upward Rotation  
+
 ## Target Muscle
 * [[Serratus Anterior]]  
 ## Involved Muscle
@@ -10,7 +12,7 @@
 2. Upper [[Trapezius]] : 力偶作用
 3. Down [[Trapezius]] : 力偶作用
 ## Test Procedure
-##### Motion
+#### Motion
 * 受測者在 Shoulder Flexion 約 130 度和 Scapula Protraction 時，治療師針對 Protraction 和 Elevation 施予向後向下的阻力，受測者必須能抵擋最大阻力維持姿勢。 
 
 ![Imgur](https://i.imgur.com/q5NOI0wm.png)  

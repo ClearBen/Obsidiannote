@@ -1,3 +1,4 @@
+# Deltoid
 ## Origin
 * **Anterior** : Lateral Clavicle鎖骨外側三分之一 
 * **Medial** : Acromion Process 肩峰突起
@@ -8,12 +9,19 @@
 
 ## Motion
 1. **Shoulder Abduction** : All
-2. **Shoulder Flexion** : Anterior
+	* 主要是 Middle，在懸臂姿勢時，Anterior/Posterior 會穩定肢體
+2. **Shoulder Flexion** : Anterior，在較大的屈曲範圍時，Middle 可以提供 GH Joint 穩定度
 3. **Internal Rotation** : Anterior
 4. **Shoulder Horizontal Abduction** : Anterior
-5. **Shoulder Extension** : Posterior 
-6. **Shoulder External Rotation** : Posterior
-7. **Shoulder Horizontal Extension** : Posterior  
+5. **Shoulder Extension** : Posterior 是強力的肩關節伸肌
+	* Deltoid 可以在解剖的正中位置後將肱骨伸展，具備 Hyperextension 的能力  
+	  
+	* 手臂低於水平面的活動範圍會產生最大的作用，**最大力臂發生再 Shoulder Flexion 30度**(手臂朝下) (QA : 不知道MMT課本所謂的低於水平面活動範圍和手臂朝下什麼意思?)	  
+	
+	* [[Latissimus Dorsi]] 和 [[Pectoralis Major]] 無法在解剖的正中位置後將肱骨伸展，因為在這個姿勢的肌肉長度都不利於收縮 
+7. **Shoulder External Rotation** : Posterior 是強力的外轉肌
+	* Shoulder Flexion 到肩胛平面時，作用高達 80%
+8. **Shoulder Horizontal Extension** : Posterior  和 Middle
 
 ## Innervation
 **Axillary Nerve 腋神經** : **C5~C6**  
@@ -25,12 +33,17 @@
 
 * 附著部位廣，對於 GH Joint 的**槓桿效益大**。  
 
-* 提供肩關節動作良好的**穩定性**。  
+* 提供肩關節動作良好的**穩定性**。
+
+* **容易使肱骨頭向上移動，尤其是後側纖維**。 
+
+* 前中後三段纖維可以一起使手臂擺動，並防止肱骨頭在懸吊的手中的攜帶物體往下拉扯移位。
 
 * **肩部以下及頭部以上的肩外展動作是很重要的主動肌**。
     * QA : 那在肩部以上到頭部以下的肩外展動作是由誰主導呢?  
 
-* **肩外展啟動階段時，主要是 [[Supraspinatus]] 棘上肌作用**，接下來才是三角肌，而且 **Supraspinatus 協助將肱骨頭向下滑動，防止肱骨頭與肩峰突起產生摩擦夾擠**。  
+* **前段纖維與 [[Rotator Cuff]] 一起作用來達成 Shoulder Flexion and Abduction**
+	* **肩外展啟動階段時，主要是 [[Supraspinatus]] 棘上肌作用**，接下來才是三角肌，而且 **Supraspinatus 協助將肱骨頭向下滑動，防止肱骨頭與肩峰突起產生摩擦夾擠**。  
 
 * 人主要的動作皆在身體前側，所以 **Anterior Deltoid 比 Posterior Deltoid 來的強壯**許多，但是 Posterior Deltoid 本身也是強力的肌肉。
     * Anterior Deltoid 會和 Pectoralis Major 協力完成 Shoulder Adduction/Internal Rotation  

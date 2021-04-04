@@ -1,12 +1,13 @@
+# Teres Major
 ## Origin
 * **肩胛下角後表面**  
 
 ## Insertion
-* **肱骨肱二頭肌溝內側緣**  
+* **肱骨結節間溝內唇**  
 
 ## Motion
 1. **Shoulder Adduction**
-2. **Shoulder Extension**
+2. **Shoulder Extension** : 在 Shoulder Extension 的姿勢下
 3. **Shoulder Internal Rotation**  
 
 ## Innervation

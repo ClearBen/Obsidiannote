@@ -1,3 +1,5 @@
+# Scapula Elevation  
+
 ## Target Muscle
 * Upper [[Trapezius]]
 * [[Levator Scapula]]  
@@ -7,7 +9,7 @@
 * [[Levator Scapula]]  
 
 ## Test Procedure
-##### Motion
+#### Motion
 受測者聳肩，幾乎是兩個同時進行，較少單側測試。
 * 理論上應該是肩帶上抬(聳肩動作)，所以不會看到肩胛骨有旋轉的活動  
 

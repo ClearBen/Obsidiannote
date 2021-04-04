@@ -1,18 +1,22 @@
+# Latissimus Dorsi
 ## Origin
-* **T7~L5**棘突
+* **T6~L5**棘突
 * **後髂骨嵴**
-* **薦椎後側** : **經胸腰椎腱膜附著**  
+* **薦椎後側** : **經胸腰椎腱膜附著**
+* **Rib 8 ~ Rib 12**（QA:但大部分解剖書好像沒看到?）
 
 ## Insertion
-* **肱骨肱二頭肌溝之內側唇**  
+* **肱骨結節間溝之內側唇下緣** 
+* 手臂的深層筋膜 (QA : MMT 課本寫，但未解釋)
 
 ## Motion
 1. **Shoulder Adduction** : 主要動作
 2. **Horizontal Abduction**
-3. **Shoulder Extension**
+3. **Shoulder Extension** : 在 Shoulder Extension 的姿勢下
 4. **Shoulder Internal Rotation** : 最少參與 
-5. **Scapula Depression** : 當手臂固定時
-6. **Thoracic & Lumbar Hyperextension** : 雙側收縮 
+5. **Pelvis Elevation** : 當手臂固定時
+6. **Thoracic & Lumbar Hyperextension** : 雙側收縮
+7. 強力吐氣及深吸氣 :　因為有連接到肋骨，會影響到胸腔容積大小 (QA)
 
 ## Innervation
 * **胸背神經** : **C6~C8**  

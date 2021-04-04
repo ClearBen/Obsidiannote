@@ -1,3 +1,4 @@
+# Biceps Brachii
 ## Origin
 * **Long** Head : **肩胛骨盂上結節** 
 * **Short** Head : **Coracoid Process** 喙突  
@@ -8,7 +9,7 @@
 
 ## Motion
 1. **Shoulder Flexion** : All
-2. **Shoulder Abduction** : Long Head
+2. **Shoulder Abduction** : Long Head (如果肩膀處在肱骨外轉的姿勢)
 3. **Shoulder Abbuction** : Short Head
 4. **Elbow Flexion** : All
 5. **Elbow Supination** : All  
