@@ -3,17 +3,30 @@
 * **肩胛骨的肩胛下窩**  
 
 ## Insertion
-* **肱骨的小結節**  
+* **肱骨的小結節**
+* **Anterior GH Joint Capsule **
 
 ## Motion
-1. **Shoulder Internal Rotation**  
+1. **Shoulder Internal Rotation**
+2. **Shoulder Abduction**
 
 ## Innervation
-* **上側/下側肩胛下神經** : **C5~C7**  
+* **上側/下側肩胛下神經** : **C5~C7**
+	* 肩胛下肌的上下半部由不同的神經所支配  
+	
+	* 肩胛下肌的上半部在 Shoulder Abduction 較低的角度比起較高角度為更有效的內轉肌肉  
+	
+	* 肩胛下肌的下半部則不受 Shoulder Abduction 角度的影響  
+	
+	* 而且 Shoulder Abduction 0 度位置執行 Shoulder Internal Rotation時，上下半部肩胛下肌的活動程度差不多。  
 
 ## Functional Anatomy
-* **是 [[Rotator Cuff]] 中最強壯的肌肉**，也是其中唯一的肩內轉肌
+* 與其他的 [[Rotator Cuff]] 維持肱骨頭於盂窩中  
+
+* **是 [[Rotator Cuff]] 中最強壯的肌肉**，也是其中唯一的肩內轉肌  
+
 * 當在從事手臂在頭部上方的動作，例如拉動、投擲、打擊的動作時，[[Pectoralis Major]]、[[Latissimus Dorsi]]、[[Teres Major]]、[[Deltoid]] Anterior 或做強力的收縮將手臂往前往下拉動，這時候肩胛下肌的功用為**固定住肱骨頭的位置，維持適當的運動範圍**，這時**和其他三條的外轉肌力就必須達到良好平衡**，當不平衡時，在做頭部上方的手臂拉動、投擲、打擊就會容易造成肩胛下肌被夾擠與卡住的情況。  
+
 * 在正常步行時，肩胛下肌也會是手臂向後擺動的主要負責肌肉  
 
 ## Palpation

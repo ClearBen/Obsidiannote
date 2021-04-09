@@ -1,9 +1,11 @@
 # Teres Minor
 ## Origin
-* **肩胛骨上外側緣**  
+* **肩胛骨上外側緣**  : 上 2/3
 
 ## Insertion
-* **肱骨大結節** : 上後端  
+* **肱骨大結節** : 最下面的關節小面
+* 肱骨(骨幹、到最下面關節小面遠端)
+* GH Joint Capsule
 
 ## Motion
 1. **Shoulder External Rotation**
@@ -14,7 +16,8 @@
 * **Axillary Nerve** : **C5~C6**  
 
 ## Functional Anatomy
-*  主要功能為與 [[Infraspinatus]] 配合將肱骨頭固定在肩盂窩的後方，以免卡到肩胛骨喙突  
+*  主要功能為維持肱骨頭在盂窩中來穩定肩關節
+	*  與 [[Infraspinatus]] 配合，以免卡到肩胛骨喙突  
 
 *  會配合 [[Teres Major]]、[[Latissimus Dorsi]]、[[Pectoralis Major]] 肋骨段纖維將高舉的手臂放下來
 	*  這時候應該是作為拮抗的作用提供動態穩定來做到一些適當的動作

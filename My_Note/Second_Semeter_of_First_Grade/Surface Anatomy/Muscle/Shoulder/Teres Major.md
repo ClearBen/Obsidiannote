@@ -7,7 +7,9 @@
 
 ## Motion
 1. **Shoulder Adduction**
-2. **Shoulder Extension** : 在 Shoulder Extension 的姿勢下
+2. **Shoulder Extension** : 
+	* 從解剖位置
+	* 從 Shoulder Flexion 的姿勢下
 3. **Shoulder Internal Rotation**  
 
 ## Innervation

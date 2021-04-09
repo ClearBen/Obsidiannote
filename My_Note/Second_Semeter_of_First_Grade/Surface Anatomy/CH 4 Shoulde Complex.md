@@ -1,3 +1,4 @@
+# Shoulder Complex
 ## Skeletal Structure
 1. **Shoulder Girdle** = Clavicle + Scapula
 	* 也被稱為胸肌帶
@@ -33,7 +34,8 @@
 8. **Humerus** 肱骨
 	1. **Greater Tubercle** 大結節
 	2. **Lesser Tubercle** 小結節
-	3. **Epicondyle** 上髁
+	3. **Epicondyle** 上髁  
+	
 ## Bony Landmarks
 1. **Clavicle**鎖骨
 2. **Acromion Process**肩峰突起
@@ -52,32 +54,48 @@
 9. **Spine of Scapula** 肩胛棘
 10. **Medial Border of Scapula** 內側緣
 11. **Lateral Border of Scapula** 外側緣
-12. **Superior Angle of Scapula** 肩胛上角
+12. **Superior Angle of Scapula** 肩胛上角  
+
 ## Muscle Attachment Sites
-![[Shoulder_Attachment_Position_Anterior.png]]
-![[Shoulder_Attachment_Position_Posterior.png]]
+![Imgur](https://i.imgur.com/d10fcJIl.png)
+![Imgur](https://i.imgur.com/Emdr994l.png)
+
 ## Ligament
+![Imgur](https://i.imgur.com/ndPFSvdl.png)
+![Imgur](https://i.imgur.com/2YwjUwIl.png)
+
 ## Special Structure
 ## Movement
-* **apulothroacic**
+* **Scapulothroacic**
 	1. Scapula Elevation
 	2. Scapula Depression
 	3. Scapula Protraction
 	4. Scapula Retraction
 	5. Scapula Upward Rotation
-	6. Scapula Downward Rotation
+	6. Scapula Downward Rotation  
+	
 * **Glenohumeral Joint**
 	1. Shoulder Flexion
 	2. Shoulder Extension
 	3. Shoulder Abduction
 	4. Shoulder Adduction
 	5. Shoulder Internal Rotation
-	6. Shoulder External Rotation
-## PROM
-此處直接連接到ROM的跑台資料
-## Resisted ROM
-Scapula
-Shoulder
+	6. Shoulder External Rotation  
+
+## PROM (Uncontractile Tissue)
+可協助評估結構的健全與功能。
+在肩關節也可以協助評估 Scapulothoracic 和 GH Joint 之間的相對動作。
+* Example : Shoulder Capsule/Ligament  
+
+![Imgur](https://i.imgur.com/Edyrxqyl.png)
+
+## Resisted ROM (Contractile Tissue)
+可協助評估 Scapulothoracic 和 GH Joint 之動態穩定結構和主動肌的健全與功能。
+評估功能肌力與肌耐力也有助於鑑別肌肉群之間的平衡和潛在威脅。 
+
+![Imgur](https://i.imgur.com/HUnUf5Vl.png)
+![Imgur](https://i.imgur.com/XZSJqKGl.png)
+![Imgur](https://i.imgur.com/na9FXfYl.png)
 ## Superficial Muscle
 1. [[Deltoid]]
 2. [[Pectoralis Major]]
@@ -95,12 +113,18 @@ Shoulder
 14. [[Infraspinatus]]
 15. [[Teres Minor]]
 16. [[Subscapularis]]
-17. [[Triceps Brachii]]
+17. [[Triceps Brachii]]  
+
 ### 協同肌/拮抗肌
 #### Scapula
+![Imgur](https://i.imgur.com/PQswu1v.png)
 #### Shoulder
+![Imgur](https://i.imgur.com/uk41iEl.png)
+
 ### 啟動動作
-伸手取物
-投擲
-舉物
-伏立挺身
+![Imgur](https://i.imgur.com/uGXdkHP.png)
+* 投擲動作
+	* 關於解說中的將手臂向前拉動，應該是肱二頭肌，而不是肱三頭肌  
+* 伏地挺身 
+	* 前三角肌和胸大肌是負責往地板推的動作，因為這樣是 Shoulder Flexion的動作
+	* 肱三頭肌也會在往地板推的時候，負責 Elbow Extension
