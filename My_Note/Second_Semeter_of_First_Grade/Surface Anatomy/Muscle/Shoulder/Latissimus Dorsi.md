@@ -10,12 +10,17 @@
 * 手臂的深層筋膜 (QA : MMT 課本寫，但未解釋)
 
 ## Motion
-1. **Shoulder Adduction** : 主要動作
+1. **Shoulder Adduction**
+	* 主要動作
 2. **Horizontal Abduction**
-3. **Shoulder Extension** : 在 Shoulder Extension 的姿勢下
-4. **Shoulder Internal Rotation** : 最少參與 
-5. **Pelvis Elevation** : 當手臂固定時
-6. **Thoracic & Lumbar Hyperextension** : 雙側收縮
+3. **Shoulder Extension**
+	* 在 Shoulder Extension 的姿勢下
+4. **Shoulder Internal Rotation** : 
+	* 最少參與 
+5. **Pelvis Elevation**
+	* 當手臂固定時
+6. **Thoracic & Lumbar Hyperextension**
+	*  雙側收縮
 7. 強力吐氣及深吸氣 :　因為有連接到肋骨，會影響到胸腔容積大小 (QA)
 
 ## Innervation

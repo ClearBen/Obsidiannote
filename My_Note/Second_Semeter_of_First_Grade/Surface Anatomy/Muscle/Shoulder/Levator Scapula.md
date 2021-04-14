@@ -6,11 +6,16 @@
 * **Anterior Angle of Scapula**  
 
 ## Motion
-1. **Scapula Elevation** : 和 Upper [[Trapezius]] 共同完成
-2. **Scapula Downward Rotation** : 和 [[Rhomboid]] 共同完成
-3. **Neck Extension** : 雙邊同時收縮，和 Upper [[Trapezius]] 共同完成
-4. **Neck Side-Banding** : 單邊收縮
-5. **Neck Rotation** : 同側收縮
+1. **Scapula Elevation**
+	* 和 Upper [[Trapezius]] 共同完成
+2. **Scapula Downward Rotation**
+	* 和 [[Rhomboid]] 共同完成
+3. **Neck Extension**
+	* 雙邊同時收縮，和 Upper [[Trapezius]] 共同完成
+4. **Neck Side-Banding**
+	* 單邊收縮
+5. **Neck Rotation**
+	* 同側收縮
 6. **Scapula Retraction**  
 
 ## Innervation

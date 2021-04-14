@@ -8,20 +8,28 @@
 * **肱骨三角肌粗隆**  
 
 ## Motion
-1. **Shoulder Abduction** : All
+1. **Shoulder Abduction**
+	* All
 	* 主要是 Middle，在懸臂姿勢時，Anterior/Posterior 會穩定肢體
-2. **Shoulder Flexion** : Anterior，在較大的屈曲範圍時，Middle 可以提供 GH Joint 穩定度
-3. **Internal Rotation** : Anterior
-4. **Shoulder Horizontal Abduction** : Anterior
-5. **Shoulder Extension** : Posterior 是強力的肩關節伸肌
+2. **Shoulder Flexion**
+	* Anterior
+	* 在較大的屈曲範圍時，Middle 可以提供 GH Joint 穩定度
+3. **Internal Rotation**
+	* Anterior
+4. **Shoulder Horizontal Abduction** 
+	* Anterior
+5. **Shoulder Extension**
+	* Posterior 是強力的肩關節伸肌
 	* Deltoid 可以在解剖的正中位置後將肱骨伸展，具備 Hyperextension 的能力  
 	  
 	* 手臂低於水平面的活動範圍會產生最大的作用，**最大力臂發生再 Shoulder Flexion 30度**(手臂朝下) (QA : 不知道MMT課本所謂的低於水平面活動範圍和手臂朝下什麼意思?)	  
 	
 	* [[Latissimus Dorsi]] 和 [[Pectoralis Major]] 無法在解剖的正中位置後將肱骨伸展，因為在這個姿勢的肌肉長度都不利於收縮 
-7. **Shoulder External Rotation** : Posterior 是強力的外轉肌
+6. **Shoulder External Rotation**
+	* Posterior 是強力的外轉肌
 	* Shoulder Flexion 到肩胛平面時，作用高達 80%
-8. **Shoulder Horizontal Extension** : Posterior  和 Middle
+7. **Shoulder Horizontal Extension**
+	* Posterior  和 Middle
 
 ## Innervation
 **Axillary Nerve 腋神經** : **C5~C6**  

@@ -8,11 +8,16 @@
 * **肱二頭肌腱膜** : 前臂總屈肌肌腱的上方  
 
 ## Motion
-1. **Shoulder Flexion** : All
-2. **Shoulder Abduction** : Long Head (如果肩膀處在肱骨外轉的姿勢)
-3. **Shoulder Abbuction** : Short Head
-4. **Elbow Flexion** : All
-5. **Elbow Supination** : All  
+1. **Shoulder Flexion**
+	* All
+2. **Shoulder Abduction**
+	* Long Head (如果肩膀處在肱骨外轉的姿勢)
+3. **Shoulder Abbuction**
+	* Short Head
+4. **Elbow Flexion**
+	* All
+5. **Elbow Supination**
+	* All  
 
 備註 : Frontal Plane 上，長短頭是有拮抗關係的  
 

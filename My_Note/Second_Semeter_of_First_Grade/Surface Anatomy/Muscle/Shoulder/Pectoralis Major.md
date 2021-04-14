@@ -8,15 +8,22 @@
 * **肱骨(Humerus)的肱二頭肌溝之外側唇緣**
 
 ## Motion
-1. **Shoulder Flexion** : 鎖骨段 (下降段)
-2. **Shoulder Extension** : 肋骨段(上升段)
+1. **Shoulder Flexion**
+	* 鎖骨段 (下降段)
+2. **Shoulder Extension**
+	* 肋骨段(上升段)
 	* **從肱骨屈曲/頭部上方開始的肩伸直**
 	* **超過解剖的正中位置之後，胸大肌的部分便不能再做肩伸展**
-3. **Shoulder Adduction** : 從肩部高度之下方
-4. **Shoulder Abduction** : 從肩部高度之上方
-5. **Shoulder Internal Rotation** : All
-6. **Shoulder Horizontal Adduction** : All
-7. 攀爬時將身體往上往前拉 : 胸骨段 (中間段)
+3. **Shoulder Adduction**
+	* 從肩部高度之下方
+4. **Shoulder Abduction**
+	* 從肩部高度之上方
+5. **Shoulder Internal Rotation**
+	* All
+6. **Shoulder Horizontal Adduction**
+	* All
+7. 攀爬時將身體往上往前拉
+	* 胸骨段 (中間段)
 	* 這動作算是 Shoulder Extension
 
 ## Innervation

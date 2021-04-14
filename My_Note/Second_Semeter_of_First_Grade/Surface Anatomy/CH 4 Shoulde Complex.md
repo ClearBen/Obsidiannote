@@ -115,13 +115,13 @@
 16. [[Subscapularis]]
 17. [[Triceps Brachii]]  
 
-### 協同肌/拮抗肌
-#### Scapula
+## Synergists/Antagonists (協同肌/拮抗肌)
+### Scapula
 ![Imgur](https://i.imgur.com/PQswu1v.png)
-#### Shoulder
+### Shoulder
 ![Imgur](https://i.imgur.com/uk41iEl.png)
 
-### 啟動動作
+## Putting It In Motion(啟動動作)
 ![Imgur](https://i.imgur.com/uGXdkHP.png)
 * 投擲動作
 	* 關於解說中的將手臂向前拉動，應該是肱二頭肌，而不是肱三頭肌  

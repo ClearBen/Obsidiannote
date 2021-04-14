@@ -6,8 +6,10 @@
 ## Insertion
 * **尺骨鷹嘴突**
 ## Motion
-1. **Shoulder Extension** : Long Head
-2. **Shoulder Abduction** : Long Head
+1. **Shoulder Extension**
+	* Long Head
+2. **Shoulder Abduction**
+	* Long Head
 3. **Elbow Extension**
 ## Innervation
 * **橈神經** : **C5~T1**

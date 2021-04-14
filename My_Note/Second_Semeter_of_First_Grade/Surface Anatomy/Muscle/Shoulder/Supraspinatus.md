@@ -6,7 +6,8 @@
 * **肱骨大結節** : 前上端  
 
 ## Motion
-1. **Shoulder Abduction** : 為啟動動作，在較低外展範圍內為較有效的肩外展肌。
+1. **Shoulder Abduction**
+	* 為啟動動作，在較低外展範圍內為較有效的肩外展肌。
 2. **Shoulder Flexion**
 3. **Shoulder External Rotation** 
 

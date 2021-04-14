@@ -9,7 +9,8 @@
 ## Motion
 1. **Scapula Retraction**
 2. **Scapula Elevation**
-3. **Scapula Downward Rotation** : 和 [[Levator Scapula]]、[[Pectoralis Minor]] 共同完成
+3. **Scapula Downward Rotation**
+	* 和 [[Levator Scapula]]、[[Pectoralis Minor]] 共同完成
 
 ## Innervation
 * **背側肩胛神經** : **C5**  
