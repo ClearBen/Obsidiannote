@@ -39,7 +39,8 @@
 1. 受測者將手臂抬至約 Shoulder Flexion 90 度
 2. 治療師協助撐住手肘
 3. 口令 : 「請您將手臂維持在這個姿勢。放鬆，再維持住剛剛的姿勢、放鬆。」
-4. 如果此時肩胛骨依舊能夠前突與上轉
+4. 在 Grade 4 有可能因為 GH Joint 撐不住，開始做 Shoulder Extension 連帶影響肩胛骨內收與下轉，便無法分辨是 [[Deltoid]] 或是 [[Serratus Anterior]] 無力  
+   因此在受測者手肘被支撐的前提下，肩胛骨依舊能夠前突與上轉
 	* 代表 [[Deltoid]] 無力
 	* 代表 [[Serratus Anterior]] 有力  
 
