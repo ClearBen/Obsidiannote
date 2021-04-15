@@ -6,7 +6,7 @@
 * **橈骨遠端 1/4 的前內側表面**  
 
 ## Motion
-* **Forearm Pronation**
+1. **Forearm Pronation**
 	* 和 [[Pronator Teres]] 協同合作  
 
 ## Innervation

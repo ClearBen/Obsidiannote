@@ -8,12 +8,12 @@
 	* 以分開的四條肌腱附著  
 
 ## Motion
-* **第二到第五 DIP Joint Flexion**
-* **第二到第五 PIP Joint Flexion**
+1. **第二到第五 DIP Joint Flexion**
+2. **第二到第五 PIP Joint Flexion**
 	* Support
-* **第二到第五 MCP Joint Flexion**
+3. **第二到第五 MCP Joint Flexion**
 	* Support
-* **Wrist Flexion**
+4. **Wrist Flexion**
 	* Support
 	* 和 [[Flexor Carpi Radialis]]、[[Flexor Carpi Ulnaris]]、[[Palmaris Longus]]、[[Flexor Digitorum Superficialis]] 一起協同  
 
@@ -24,7 +24,7 @@
 ## Functional Anatomy
 * 不參與 Wrist Flexion
 	* 和 [[Flexor Digitorum Superficialis]] 不同，未跨過肘部
-* 唯一一條可以屈曲手指所有節段的肌肉  
+* **唯一一條可以屈曲手指所有節段的肌肉  **
 
 ## Palpation
 * 當 Forearm Supination 時，做 Resistive Finger Flexion 可以觸診其收縮

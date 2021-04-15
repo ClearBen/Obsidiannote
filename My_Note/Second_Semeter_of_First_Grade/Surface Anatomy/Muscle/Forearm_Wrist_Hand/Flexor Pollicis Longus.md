@@ -7,9 +7,9 @@
 * **拇指遠端指骨掌側基部**
 
 ## Motion
-* **Thumb 掌骨指骨關節/腕骨掌骨關節/腕骨肩關節 Flexion**
+1. **Thumb 掌骨指骨關節/腕骨掌骨關節/腕骨肩關節 Flexion**
 	* 對於抓握很重要
-* **Wrist Flexion**
+2. **Wrist Flexion**
 	* Support  
 
 ## Innervation

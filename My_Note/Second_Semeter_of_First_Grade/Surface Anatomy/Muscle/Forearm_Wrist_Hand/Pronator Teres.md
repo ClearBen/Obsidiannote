@@ -7,8 +7,8 @@
 * **橈骨外側的中段 1/3**  
 
 ## Motion
-* **Forearm Pronation**
-* **Elbow Flexion**
+1. **Forearm Pronation**
+2. **Elbow Flexion**
 	* Support  
 
 ## Innervation

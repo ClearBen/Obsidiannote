@@ -8,9 +8,9 @@
 * **橈骨近端 1/3 處的前後外側**  
 
 ## Motion
-* **Forearm Supination**
+1. **Forearm Supination**
 	* 和 [[Biceps Brachii]] 和 [[Brachioradialis]] 協同合作
-* **Elbow Flexion**
+2. **Elbow Flexion**
 	* Support  
 
 ## Innervation

@@ -10,13 +10,13 @@
 	* 在止點附著處有分岔，中間會讓 [[Flexor Digitorum Profundus]] 通過，以便附著在遠端指骨  
 
 ## Motion
-* **第二到第五的 PIP Joint Flexion**
+1. **第二到第五的 PIP Joint Flexion**
 	* 對於抓牢緊握很重要
-* **第二到第五的 MCP Joint Flexion**
+2. **第二到第五的 MCP Joint Flexion**
 	* Support
-* **Wrist Flexion**
+3. **Wrist Flexion**
 	* Support
-* **Elbow Flexion**
+4. **Elbow Flexion**
 	* Support  
 
 ## Innervation

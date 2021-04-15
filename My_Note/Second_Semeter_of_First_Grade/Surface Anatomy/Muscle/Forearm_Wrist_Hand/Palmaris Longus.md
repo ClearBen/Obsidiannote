@@ -6,9 +6,9 @@
 * **手腕的屈肌支持帶與手掌腱膜**  
 
 ## Motion
-* **張緊手掌腱膜**
-* **Wrist Flexion**
-* **Elbow Flexion**
+1. **張緊手掌腱膜**
+2. **Wrist Flexion**
+3. **Elbow Flexion**
 	* Support  
 
 ## Innervation
