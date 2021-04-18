@@ -4,13 +4,13 @@
 
 ### Structure and Function
 
-* **修改-樞紐(Modified-Hinged)** 和**滑膜(Synovial)**關節  
+* **修改-樞紐(Modified-Hinged)** 和 **滑膜(Synovial)** 關節  
 
 * Humeroulnar Joints
-	* 肱骨內側遠端的**沙漏狀滑車(凸)** + 尺骨近端的**滑車窩(凹)** 所組成  
+	* 肱骨內側遠端的 **沙漏狀滑車(凸)** + 尺骨近端的**滑車窩(凹)** 所組成  
 
 * Humeroradial Joints
-	* 肱骨外側遠端的**肱骨小頭(凸)** + 橈骨近端的**杯狀橈骨頭(凹)** 所組成
+	* 肱骨外側遠端的 **肱骨小頭(凸)** + 橈骨近端的**杯狀橈骨頭(凹)** 所組成
 
 * Uncontractile Tissue
 	* 關節囊 Capsule
@@ -42,7 +42,7 @@
 
 ### Arthrokinematics
 * Humeroulnar Joint
-	* 尺骨近端的滑車窩**(凹)**相對於肱骨遠端的滑車**(凸)**活動
+	* 尺骨近端的滑車窩 **(凹)** 相對於肱骨遠端的滑車 **(凸)** 活動
 		* **Glide 和 Roll 同向**
 	* End of Flexion
 		* 尺骨的喙狀突進入肱骨的喙狀窩
@@ -51,7 +51,7 @@
 		* 尺骨鷹嘴突進入到肱骨後側鷹嘴窩  
 
 * Humeroradial Joint
-	* 橈骨近端的杯狀橈骨頭**(凹)**相對於肱骨遠端外側的肱骨小頭**(凸)**活動
+	* 橈骨近端的杯狀橈骨頭 **(凹)** 相對於肱骨遠端外側的肱骨小頭 **(凸)** 活動
 		* Glide 和 Roll 同向
 	* End of Flexion
 		* 橈骨頭部邊緣進入肱骨橈骨窩為止  
@@ -65,11 +65,11 @@
 ## Superior & Inferior Radioulnar Joints
 ### Structure and Function
 * Superior Radioulnar Joint
-	* 近端尺骨外側的**橈骨切跡**和**環狀韌帶**所成之關節面**(凹)**
-	* 近端橈骨橈骨頭側面**(凸)**
+	* 近端尺骨外側的 **橈骨切跡** 和 **環狀韌帶** 所成之關節面 **(凹)**
+	* 近端橈骨橈骨頭側面 **(凸)**
 * Inferior Radioulnar Joint
-	* 遠端尺骨頭**(凸)**
-	* 遠端橈骨的尺骨切跡**(凹)**
+	* 遠端尺骨頭 **(凸)**
+	* 遠端橈骨的尺骨切跡 **(凹)**
 * Uncontractile Tissue
 	* 骨間膜
 		* 寬廣薄片的結締組織
@@ -103,7 +103,7 @@
 	* 由於橈骨頭被纖維骨環限制住，做不出 Gilde 和 Roll
 	* 只能做旋轉，沒有凹凸定律的規則
 * Inferior Radioulnar Joint
-	* 遠端橈骨尺骨切跡**(凹)**相對於遠端尺骨頭**(凸)**活動
+	* 遠端橈骨尺骨切跡 **(凹)** 相對於遠端尺骨頭 **(凸)** 活動
 	* Glide 和 Roll 同向
 * 在前臂旋前旋後的時候肱骨和尺骨是相對不動的
 
