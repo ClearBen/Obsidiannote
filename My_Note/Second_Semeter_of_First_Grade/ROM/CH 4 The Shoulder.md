@@ -16,18 +16,18 @@
 
 ### Glenohumeral Joint (GH)
 #### Structure
-1. 肱股頭會凸面，相對於肱骨幹是向內側、上方、後方的方向。
+1. 肱股頭為凸面，相對於肱骨幹是向內側、上方、後方的方向。
 2. 肩胛骨盂窩是為凹面，其面向上方、外側、前方的方向。
 3. 關節盂比肱骨頭更淺更小，但是比盂唇(纖維軟骨)更大更深。
-4. 肩關節囊是薄且鬆弛的，所以必須和其他的非收縮性組織(盂肱韌帶、喙肱韌帶)、收縮性組織([[Rotator Cuff]]、[[Biceps Brachii]]的長頭)來一起支持強化肩關節的穩定度。  
+4. 肩關節是薄且鬆弛的，所以必須和其他的非收縮性組織(盂肱韌帶、喙肱韌帶)、收縮性組織([[Rotator Cuff]]、[[Biceps Brachii]]的長頭)來一起支持強化肩關節的穩定度。  
 
 #### Osteokinematics
 **Degree of Freedom : 3**
-**Motion : flex./ext.、abd./add.、IR/ER**
+**Motion : flex./ext.、abd./add.、IR/ER**  
 **Functional Motion : **
 1. Horizontal Abduction : Abduction + Extension
 2. Horizontal Adduction : Flexion + Adduction
-3. Scapular Plane Abduction/ Scaption : 這個動作可以比再 Frontal Plane add. 更能貼近肩胛平面和盂窩的前外側方向。  
+3. Scapular Plane Abduction : 這個動作可以比再 Frontal Plane abd. 更能貼近肩胛平面和盂窩的前外側方向。  
 
 #### Arthokinematics
 凸面相對凹面運動：Glide 和 Roll 反向
@@ -38,17 +38,17 @@ Glide 可以減少 Humeral 進行軸心旋轉時的平行移動，防止脫位�
 * add. : 肱骨頭表面向上 Glide 並向下 Roll  
 
 #### Capsular Pattern
-Passive Motion : ER -> abd. -> IR
+Passive Motion : **ER -> abd. -> IR**
 
 ### Sternoclavicular Joint (SC)
 #### Structure
 **Saddle-Shape Joint 馬鞍型關節**
 1. Clavicle 
-	* Elevation/Depression : Convex
-	* Protraction/Retraction : Concave
+	* Elevation/Depression : **Convex**
+	* Protraction/Retraction : **Concave**
 2. Stern
-	* Elevation/Depression : Concave
-	* Protraction/Retraction : Convex
+	* Elevation/Depression : **Concave**
+	* Protraction/Retraction : **Convex**
 3. 中間有關節盤分開 Clavicle 和 Stern
 4. Uncontractile Tissue
 	* Capsule 不似 GH Joint，是強而有力的
@@ -62,10 +62,10 @@ Passive Motion : ER -> abd. -> IR
 
 #### Arthokinematics
 **Clavicle**
-Elevation/Depression : Glide & Roll Opposite Direction
+**Elevation/Depression** : Glide & Roll **Opposite** Direction
 * 鎖骨頭的凸面相對在胸骨的凹面做 Frontal Plane 的動作
 
-Protraction/Retraction : Glide & Roll Same Direction
+**Protraction/Retraction** : Glide & Roll **Same** Direction
 * 鎖骨頭的凹面相對在胸骨的凸面做 Transverse Plane 的動作
 
 ### Acromioclavicular Joint (AC)
