@@ -24,7 +24,7 @@
 #### Osteokinematics
 **Degree of Freedom : 3**
 **Motion : flex./ext.、abd./add.、IR/ER**  
-**Functional Motion : **
+**Functional Motion :**
 1. Horizontal Abduction : Abduction + Extension
 2. Horizontal Adduction : Flexion + Adduction
 3. Scapular Plane Abduction : 這個動作可以比再 Frontal Plane abd. 更能貼近肩胛平面和盂窩的前外側方向。  
