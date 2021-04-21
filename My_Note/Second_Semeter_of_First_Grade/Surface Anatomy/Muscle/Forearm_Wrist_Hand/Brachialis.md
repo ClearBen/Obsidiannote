@@ -1,9 +1,10 @@
 # Brachialis
 ## Origin
-* **肱骨前側表面1/2**  
+* **肱骨前側表面1/2**
+* 肌間中膈(內側)    
 
 ## Insertion
-* **尺骨冠狀突**  
+* **尺骨粗隆與喙突**  
 
 ## Motion
 1. **Elbow Flexion**
@@ -19,7 +20,10 @@
 		* Forearm Supination Position : 肱二頭肌力量最大
 		* Forearm Natural Position : 肱橈肌力量最大  
 		
-	* **肱肌不受前臂姿勢影響，皆能維持良好的槓桿作用 ** 
+	* **肱肌不受前臂姿勢影響，皆能維持良好的槓桿作用 **   
+	
+	* 被認為是肘屈肌中的主力
+		* 因為在 Isometrics Contraction(等長收縮) 及 Eccentric Contraction (離心收縮) 時，會受到活化，[[Biceps Brachii]] 和 [[Brachioradialis]] 在 Eccentric Contraction 時不會受到活化
 	
 * 不參與 Forearm Supination
 	* 因為其附著點在尺骨，其拉力線不適合  

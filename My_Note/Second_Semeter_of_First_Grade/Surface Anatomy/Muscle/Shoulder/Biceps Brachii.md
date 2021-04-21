@@ -17,7 +17,8 @@
 4. **Elbow Flexion**
 	* All
 5. **Elbow Supination**
-	* All  
+	* All
+	* 強力的
 
 備註 : Frontal Plane 上，長短頭是有拮抗關係的  
 
@@ -27,15 +28,30 @@
 ## Functional Anatomy
 * 為**多關節肌肉**，跨過肩關節與肘關節，且為紡錘型肌肉
     * 相比三角肌或是肱肌，力量較小，因為他們為羽狀型肌肉
-    * QA:單/多關節肌肉之大小?  
+    * QA:單/多關節肌肉之大小?
+    * 多頭可視同儲備能力(QA)  
 
 * **主要功能為 Elbow Flexion**，但更多的是達成 Forearm Supination
-    * 會和肱肌、肱橈肌、屈腕肌群共同完成 Elbow Flexion  
+    * 會和肱肌、肱橈肌共同完成 Elbow Flexion
+    * 腕屈肌群強力收縮下可協助 Elbow Flexion  
 
 * 短頭會和 [[Coracobrachialis]] 共同作用，在步行時讓肱骨往身體前側擺動及內收手臂  
 
 * **在 Shoulder Flexion 可以提供肩關節穩定**
     * 由於長頭與短頭的走向
+
+* 在 [[Deltoid]] 活動時，於盂窩中穩定及下壓肱骨頭
+
+* 前臂姿勢會使肘屈肌呈現不同的肌力優勢，不過在 Forearm Supination 時，執行 Elbow Flexion 會較為有力
+	* Forearm Supination : [[Biceps Brachii]]
+	* Forearm Pronation : [[Brachialis]]
+	* Forearm Natural Position : [[Brachioradialis]]  
+
+* 有 60% 為第二型纖維
+
+* 在 Elbow Extension 下，抵抗阻力做 Shoulder Flexion 時，肱二頭肌雙頭都會被活化
+
+* 在合併 Elbow Flexion 和 Forearm Supination 的時候有最佳的效能
 
 ## Palpation
 * 嘗試著去感受長頭與短頭肌束的分界點

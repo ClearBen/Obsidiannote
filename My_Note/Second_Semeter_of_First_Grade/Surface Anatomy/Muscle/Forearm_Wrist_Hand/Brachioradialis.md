@@ -1,6 +1,6 @@
 # Brachioradialis
 ## Origin
-*  **肱骨外上髁近端2/3表面**  
+*  **肱骨外側髁上嵴近端2/3表面**  
 
 ## Insertion
 * **橈骨莖突外側面**
@@ -13,7 +13,7 @@
 	* 從 Forearm Pronation 回到 Natural Position 時  
 
 ## Innervation
-* **Radial Nerve** : **C5~T1**  
+* **Radial Nerve** : **C5~C6**  
 
 ## Functional Anatomy
 * 和 [[Brachialis]] 、[[Biceps Brachii]] 共同協作 Elbow Flexion  

@@ -62,3 +62,6 @@ Shoulder Girdle Elevation : Scapula Elevation (聳肩)
 11. ### [[Shoulder External Rotation]]
 12. ### [[Shoulder Horizontal Adduction]]
 13. ### [[Shoulder Horizontal Abduction]]
+
+## Complement
+* 在 [[Horizontal Abduction]] 的時候，雙關節肌肉是不容易使力的 (QA)
