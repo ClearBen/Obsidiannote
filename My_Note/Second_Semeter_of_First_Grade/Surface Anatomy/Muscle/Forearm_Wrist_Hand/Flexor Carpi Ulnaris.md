@@ -1,6 +1,6 @@
 # Flexor Carpi Ulnaris
 ## Origin
-* **肱骨肌頭** : 肱骨內上髁
+* **肱骨肌頭** : 肱骨內上髁經由屈腕肌總肌腱
 * **尺骨肌頭** : 鷹嘴突內側表面和後緣近端2/3處  
 
 ## Insertion
@@ -18,11 +18,12 @@
 	* Support  
 
 ## Innervation
-* **Ulnar Nerve** : **C8~T1**  
+* **Ulnar Nerve** : **C7~T1**  
 
 ## Functional Anatomy
 * 在 Complete Elbow Extension 時，可以提供穩定性
-	* 因為是微弱的肘屈肌  
+	* 因為是微弱的肘屈肌    
+* 在做 Wrist Ulnar Deviation 時，Forearm Supination 會比起 Forearm Pronation 和 Natural Position 是最有力的  
 
 ## Palpation
 * 在 Forearm Supination 時做 Resistive Wrist Flexion 和 Resistive Ulnar Deviation 感受其收縮

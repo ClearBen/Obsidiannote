@@ -10,7 +10,7 @@
 	* 和 [[Pronator Teres]] 協同合作  
 
 ## Innervation
-* **Median Nerve** : **C5~T1**  
+* **Median Nerve** : **C7~C8**  
 
 ## Functional Anatomy
 * 在 Elbow Extension 時，作用會比 [[Pronator Teres]] 強

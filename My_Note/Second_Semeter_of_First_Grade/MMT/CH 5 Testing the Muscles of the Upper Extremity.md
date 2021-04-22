@@ -49,19 +49,54 @@ Shoulder Girdle Elevation : Scapula Elevation (聳肩)
 ## [[Scapulohumeral Rhythm]]  
 
 ## Testing
-1. ### [[Scapula Protraction & Upward Rotation]]
-2. ### [[Scapula Elevation]]
-3. ### [[Scapula Retraction]]
-4. ### [[Scapula Depression & Retraction]]
-5. ### [[Scapula Retraction & Downward Rotation]]
-6. ### [[Latissimus Dorsi Test]]
-7. ### [[Shoulder Flexion]]
-8. ### [[Shoulder Extension]]
-9. ### [[Shoulder Abduction]]
-10. ### [[Shoulder Internal Rotation]]
-11. ### [[Shoulder External Rotation]]
-12. ### [[Shoulder Horizontal Adduction]]
-13. ### [[Shoulder Horizontal Abduction]]
+### Scapula Test
+1. [[Scapula Protraction & Upward Rotation]]
+2. [[Scapula Elevation]]
+3. [[Scapula Retraction]]
+4. [[Scapula Depression & Retraction]]
+5. [[Scapula Retraction & Downward Rotation]]
+### Shoulder Test
+6. [[Latissimus Dorsi Test]]
+7. [[Shoulder Flexion]]
+8. [[Shoulder Extension]]
+9. [[Shoulder Abduction]]
+10. [[Shoulder Internal Rotation]]
+11. [[Shoulder External Rotation]]
+12. [[Shoulder Horizontal Adduction]]
+13. [[Shoulder Horizontal Abduction]]
+### Elbow Test
+14. [[Elbow Flexion]]
+15. [[Elbow Extension]]
+### Forearm Test
+16. [[Forearm Supination]]
+17. [[Forearm Pronation]]
+### Wrist Test
+18. [[Wrist Flexion]]
+19. [[Wrist Extension]] 
 
 ## Complement
 * 在 [[Horizontal Abduction]] 的時候，雙關節肌肉是不容易使力的 (QA)
+
+
+# Introduction of Hand MMT
+* **神經傷害後評估**為測試手部單一肌肉或動作的主要原因。
+* **針對動作給分比起針對特定肌後更為適當**
+	* 因為手部肌肉神經支配的模式，同一條神經可以會支配具有類似功能、位置相近的功能肌群，當神經受損時可能會有同一功能肌群多個肌肉受影響
+* 手部肌肉很多功能在合併動作時會被活化。
+* 手部唯一可以獨立出來測試的肌肉為
+	1. 第一背側骨間肌：食指往橈側外展
+	2. 屈拇指長肌 : 拇指指間關節屈曲
+* 請受測者握拳並指頭伸展可以提供全面的 AROM
+* **手部很多小肌肉在 Grade 5/4 中要區分出來是相當困難的，而且沒有臨床上的關聯性**
+* **在 Grade 2 的時候不太需要考量到抗阻力姿勢**
+	* 因為重力對於指頭的影響是不重要的
+* 手部可以分為外部肌肉與內部肌肉，一般來說每個指頭有 **6** 條肌肉控制
+	* 外部肌肉 * 3
+		* 兩條長屈肌、一條長伸肌
+			* [[Flexor Digitorum Superficialis]]、[[Flexor Digitorum Profundus]]、[[Extensor Digitorum]]
+		* Radial Nerve、Ulnar Nerve、Median Nerve
+	* 內部肌肉 * 3
+		* 背側骨間肌
+		* 掌側骨間肌
+		* 蚓狀肌
+		* Median Nerve、Ulnar Nerve

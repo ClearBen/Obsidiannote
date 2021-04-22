@@ -1,9 +1,10 @@
 # Extensor Carpi Ulnaris
 ## Origin
-* **肱骨外上髁**  
+* **肱骨外上髁伸肌總肌腱**  
+* 尺骨後緣(藉由腱膜)
 
 ## Insertion
-* **第五掌骨背側基部**  
+* **第五掌骨背側基部內側結節**  
 
 ## Motion
 1. **Wrist Extension**
@@ -13,7 +14,7 @@
 	* Support  
 
 ## Innervation
-* **Radial Nerve** : **C5~T1**  
+* **Radial Nerve** : **C7~C8**  
 
 ## Functional Anatomy
 * 相當於外側的 [[Flexor Carpi Ulnaris]]，彼此有很強而具有功能的互動關係
