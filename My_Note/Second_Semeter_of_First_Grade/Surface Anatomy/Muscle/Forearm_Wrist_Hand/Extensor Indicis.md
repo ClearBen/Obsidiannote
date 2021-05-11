@@ -7,13 +7,15 @@
 * **第二指的近端指骨基部**  
 
 ## Motion
-1. **伸展第二指的MCP/PIP Joint**
-2. **Wrist Extension**
-3. **Wrist Supination**
+1. **伸展食指的MCP/PIP Joint**
+2. **食指的內收**
+	* Support
+3. **Wrist Extension**
+4. **Wrist Supination**
 	* Support
 
 ## Innervation
-* **Radial Nerve** : **C5~T1**  
+* **Radial Nerve** : **C7~C8**  
 
 ## Functional Anatomy
 * 使食指具有獨立動作的能力，不需要和其他三指共同動作
