@@ -28,4 +28,18 @@
 * 閉鎖鍊動作中，內收大肌在承重的任務較為活化
 * 當股骨固定時，此肌肉為有利的髖伸肌，在早期的教科書中被歸類為第四條膕旁肌
 * 臥床時會發生明顯的萎縮現象，代表其為髖關節的穩定肌
+* 足部未著地(擺盪期) : 協助股骨向前向內
+* 足部著地(站立中期) : 協助骨盆在股骨上穩定
+	* 如果沒有恥骨肌協助作用，骨盆會向內移動至膝蓋上方(QA?)
+	* 如果協助作用不佳，會影響穩定性和下肢的排列
+* 在 Hip Flexion 時 : 協助做 Hip Extension
+	* 在 Hip Flexion 的姿勢下，骨盆相對固定，而產生股骨相對骨盆往後的動作
+* 在 Hip Extension 時 : 協助做 Hip Flexion
+* [[Adductor Magnus]] 對於 Hip Flexion/Extension 的槓桿效益特別好
+	* 因為股骨後側的止點很長的緣故
+* 更換的 Hip Extension/Flexion 的功用與步態與跑步的動態學一致  
+
 ## Palpation
+* Posture : 俯臥
+* 位於 [[Gracilis]] 和 Hip Extensor 內側之間，直到大腿內側中段
+* 做 Resistive Hip Adduction 可以感受其收縮

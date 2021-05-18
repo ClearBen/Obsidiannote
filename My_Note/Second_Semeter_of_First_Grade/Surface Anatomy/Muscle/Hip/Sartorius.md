@@ -18,7 +18,7 @@
 
 ## Functional Anatomy
 * 人體最長的肌肉
-* 和 [[Tensor Fasciae Latae]] 都有參與 Hip Flexion，但在旋轉方面，會是相反的動作產生平衡關係，這個平衡可以協助控制 Knee 和 Hip 的旋轉，例如 旋轉下肢還有 planting(QA)
+* 和 [[Tensor Fasciae Latae]] 都有參與 Hip Flexion，但在旋轉方面，會是相反的動作產生平衡關係，這個平衡可以協助控制 Knee 和 Hip 的旋轉，例如 : 當足部被固定後轉動下肢(Hip)時，[[Tensor Fasciae Latae]] 、[[Sartorius]] 都會被啟動 planting(QA)
 	* [[Tensor Fasciae Latae]] : Hip Internal Rotation
 	* [[Sartorius]] : Hip External Rotation
 * 和 [[Gracilis]] 與 [[Semitendinosus]] 構成 "鵝足肌腱"
