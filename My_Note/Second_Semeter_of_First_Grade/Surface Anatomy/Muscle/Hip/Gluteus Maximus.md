@@ -17,15 +17,15 @@
 * Hip Extension
 	* 強力
 * Hip Abduction
-	* 上段纖維 80%
+	* Upper Fibers 80%
 * Hip Adduction
-	* 下段纖維 20%
+	* Lower Fibers 20%
 * Hip External Rotation
 * Hip Abduction from Hip Flexion
 	* Weak Support
-	* Posterior Part
+	* Posterior Fibers
 * Hip Internal Rotation
-	* Anterior Part
+	* Anterior Fibers
 	* Under Hip Flexion 90 Degrees
 
 ## Innervation
@@ -56,3 +56,5 @@
 	* 由於股骨遠端內髁較大，在 CKC 下做 Knee Flexion 時，，所以會有股骨相對於脛骨外轉的動作產生 (QA)  
 
 ## Palpation
+* Posture : 俯臥
+* 做 Resist Hip Extension 感受其收縮

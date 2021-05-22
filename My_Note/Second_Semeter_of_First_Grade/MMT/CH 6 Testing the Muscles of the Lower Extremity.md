@@ -109,8 +109,8 @@
 ### Target
 1. [[Obturator Externus]]
 2. [[Obturator Internus]]
-3. [[Gemellus Superior]]
-4. [[Gemellus Inferior]]
+3. [[Superior Gemellus]]
+4. [[Inferior Gemellus]]
 5. [[Piriformis]]
 6. [[Quardratus Femoris]]
 7. [[Gluteus Maximus]]  

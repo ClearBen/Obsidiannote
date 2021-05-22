@@ -12,9 +12,9 @@
 ## Motion
 * Hip Adduction
 * Hip Extension from Hip Flexion
-	* Lower Part
+	* Posterior Fibers
 * Hip Flexion from Hip Extension
-	* Upper Part
+	* Anterior Fibers
 * Hip Rotation
 	* Depend on the Hip Position
 	* (QA?)(Need to manage)  
@@ -42,4 +42,4 @@
 ## Palpation
 * Posture : 俯臥
 * 位於 [[Gracilis]] 和 Hip Extensor 內側之間，直到大腿內側中段
-* 做 Resistive Hip Adduction 可以感受其收縮
+* 做 Resist Hip Adduction 可以感受其收縮

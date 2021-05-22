@@ -14,7 +14,7 @@
 	* Support  
 
 ## Innervation
-* **Obturator Nerve** : **L3~L4**  
+* **Sacral Plexus** : **Obturator Nerve** : **L3~L4**  
 
 ## Functional Anatomy
 ## Palpation

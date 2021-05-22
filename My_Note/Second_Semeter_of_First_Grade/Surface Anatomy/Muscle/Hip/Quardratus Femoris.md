@@ -9,8 +9,8 @@
 * Hip External Rotation  
 
 ## Innervation
-* **L5~S1**  
-	* 同 [[Gemellus Inferior]]  
+* **Sacral Plexus** : **L5~S1**  
+	* 同 [[Inferior Gemellus]]  
 
 ## Functional Anatomy
 * 此條肌肉有可能不存在
