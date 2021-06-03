@@ -1,5 +1,7 @@
 # Screw Home Mechanism (Knee) 螺旋歸位機制
 
+膝關節在回到初始位置時發生了旋轉  
+
 ## Open Kinetic Chain (未承重)
 * Knee Flexion
     * 自主旋轉

@@ -18,7 +18,7 @@
 
 ## Functional Anatomy
 * 起點在 [[Gluteus Medius]] 深層稍前側的位置，止點也在大轉子稍前側，所以其功能相當於 Anterior [[Deltoid]]
-* 當站立時，和 [[Gluteus Minimus]]、[[Quardratus Lumborum]] 具有統一的動作幫助穩定 Hip，當這些肌肉無力的時候會導致行走、跑步時骨盆向無力側抬起，而在單腳站立時，無法維持其中心在膝蓋與足部的上方。
+* 當站立時，和 [[Gluteus Minimus]]、[[Quadratus Lumborum]] 具有統一的動作幫助穩定 Hip，當這些肌肉無力的時候會導致行走、跑步時骨盆向無力側抬起，而在單腳站立時，無法維持其中心在膝蓋與足部的上方。
 	* 步行時，無法維持 Saggital Plane 上面的動作，反而有 Frontal Plane 的搖擺步態模式，稱為臀中肌無力步態  
 
 ## Palpation

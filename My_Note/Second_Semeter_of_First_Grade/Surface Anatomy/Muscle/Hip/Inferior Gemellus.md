@@ -17,7 +17,7 @@
 
 ## Functional Anatomy
 * 位在 [[Obturator Internus]] 下側與 [[Obturator Externus]] 上側
-* 六條深層髖外轉肌中最表淺的肌肉，這六條肌肉**相當於 [[Rotator Cuff]]**，將髖穩定在大轉子位置上(有按照由上至下解剖位置排序)
+* 六條深層髖外轉肌中**相當於 [[Rotator Cuff]]**，將髖穩定在大轉子位置上(有按照由上至下解剖位置排序)
 	1. [[Piriformis]]
 	2. [[Superior Gemellus]]
 	3. [[Obturator Internus]]
