@@ -23,7 +23,7 @@
 	* 但仍會協助 [[Psoas Major]]、[[Iliacus]]、[[Sartorius]]、[[Tensor Fasciae Latae]] 來移動髖部
 * 協助 Pelvis Anterior Tilt
 	* 因為起點位置
-*  在站立姿勢與用腿承重時，**股四頭肌可以強化膝關節**，但在此前提下時，[[Vastus Medialis]]、[[vastus Lateralis]]、[[vastus Intermedius]] 的力量會大於 [[Rectus Femoris]]
+*  在站立姿勢與用腿承重時，**股四頭肌可以強化膝關節**，但在此前提下時，[[Vastus Medialis]]、[[Vastus Lateralis]]、[[Vastus Intermedius]] 的力量會大於 [[Rectus Femoris]]
 	*  因為除了股直肌外的三個頭所占的面積較大，也藉由髕骨有較好的槓桿效益
 	*  其餘三個頭的功能只有 Knee Extension
 * 常見**股直肌緊繃而導致膝關節疼痛**的病況
