@@ -26,7 +26,7 @@
 	3. [[Obturator Internus]]
 	4. [[Inferior Gemellus]]
 	5. [[Obturator Externus]]
-	6. [[Quardratus Femoris]]
+	6. [[Quadratus Femoris]]
 * 在 OKC 動作鍊時，與六條深層髖外轉肌會做 Hip External Rotation
 * 在負重的 CKC 動作鍊時，這六條深層髖外轉肌會防止股骨內轉，而導致膝蓋向下沉，即是所謂的 "膝外彎" 或 "X型腿"
 * 未負重的 CKC 動作鍊時，當站立時，體重要從一足轉換到另一足時，[[Superior Gemellus]] 和 [[Piriformis]] 會協助讓骨盆在站立側向上抬起

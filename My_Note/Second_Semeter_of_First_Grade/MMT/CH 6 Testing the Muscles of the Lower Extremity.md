@@ -112,7 +112,7 @@
 3. [[Superior Gemellus]]
 4. [[Inferior Gemellus]]
 5. [[Piriformis]]
-6. [[Quardratus Femoris]]
+6. [[Quadratus Femoris]]
 7. [[Gluteus Maximus]]  
 
 ### Compensation

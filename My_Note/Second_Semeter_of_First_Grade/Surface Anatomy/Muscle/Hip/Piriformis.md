@@ -24,7 +24,7 @@
 	3. [[Obturator Internus]]
 	4. [[Inferior Gemellus]]
 	5. [[Obturator Externus]]
-	6. [[Quardratus Femoris]]
+	6. [[Quadratus Femoris]]
 * 與**坐骨神經 Sciatic Nerve** 有密切關係，其分布可能如下
 	1. 在梨狀肌下面
 	2. 在梨狀肌上面

@@ -18,7 +18,7 @@
 
 ## Functional Anatomy
 * 橫棘肌群由下列肌肉所組成 : 
-	1. [[Semispinalis]]	: 最淺層，未分佈在腰椎區域
+	1. [[Second_Semeter_of_First_Grade/Surface Anatomy/Muscle/Trunk_Knee/Semispinalis]]	: 最淺層，未分佈在腰椎區域
 	2. [[Multifidi]] : 中層(但也算是深層)
 	3. [[Rotatores]] : 最深層，在胸椎區域最為發達
 * 橫棘肌群在脊椎運動時，會固定和操作個別脊椎。

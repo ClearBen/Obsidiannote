@@ -8,7 +8,7 @@
 * T1 ~ T8 棘突
 * C2 ~ C4 棘突
 * 和枕骨介於上項線和下項線之間的部位
-	* 和 [[Semispinalis]] 共同結合並附著
+	* 和 [[Second_Semeter_of_First_Grade/Surface Anatomy/Muscle/Trunk_Knee/Semispinalis]] 共同結合並附著
 
 ## Motion
 1. Trunk Extension
@@ -27,7 +27,7 @@
 * 豎脊肌群連接了薦椎、髂骨、脊椎、顱骨，能夠提供這些結構的穩定。其作用比深層的橫脊肌 (Transversospinalis Group) 更廣泛。**豎脊肌群與橫脊肌群共同對抗重力維持脊椎的直立姿勢。**
 * 範圍包含了下胸椎和上腰椎的棘突，並延伸到上胸椎與下頸椎的棘突
 * 呈現垂直走向，所以是有力的脊椎伸肌，比旋轉來的更有力
-* 在頸椎會與橫脊肌中的 [[Semispinalis]] 共同結合，在附著於枕骨上
+* 在頸椎會與橫脊肌中的 [[Second_Semeter_of_First_Grade/Surface Anatomy/Muscle/Trunk_Knee/Semispinalis]] 共同結合，在附著於枕骨上
 
 ## Palpation
 * Posture : 俯臥
